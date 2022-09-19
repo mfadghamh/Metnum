@@ -2,9 +2,6 @@
 
 Anggota :
 
-NIM  : 1908896
-Nama : Yazid Arroji
-
 NIM  : 2003117
 Nama : Muhammad Rafi Valliansyah
 
